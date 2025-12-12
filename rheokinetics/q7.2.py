@@ -27,7 +27,7 @@ eta = eta0 + (eta_final - eta0) * (t / t_total)
 # ----------------------------
 # Number of inlets to compare
 # ----------------------------
-inlets = [1, 2, 4]  # Example: 1, 2, and 4 inlets
+inlets = [1, 2, 4]
 colors = ['blue', 'green', 'red']
 
 plt.figure(figsize=(8, 5))
