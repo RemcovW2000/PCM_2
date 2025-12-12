@@ -1,0 +1,17 @@
+SAMPLE_WEIGHT_180 = 14.4  # mg
+SAMPLE_WEIGHT_150 = 10.4  # mg
+SAMPLE_WEIGHT_120 = 13.7  # mg
+
+START_TIME_120 = 4.0 # minutes
+START_TIME_150 = 2.3 # minutes
+START_TIME_180 = 3.2 # minutes
+
+END_TIME_120 = 1240.0 # minutes
+
+TIME_UNIT_CONVERSION_FACTOR = 60.0  # minutes to seconds
+
+RAW_DATA_CUTOFF_FREQ = 0.3 # 1/minutes
+
+FRACTION_OF_DATA_TO_AVERAGE_FOR_BASELINE = 0.04
+
+R = 8.314  # J/(mol·K)
